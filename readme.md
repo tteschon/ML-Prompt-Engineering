@@ -1,6 +1,6 @@
 # Prompt engineering    
 
-This repository is used to store Jupyter notebooks related to prompt engineering.
+This repository is used to store Jupyter notebooks related to the [Deeplearning.AI prompt engineering course](https://learn.deeplearning.ai/chatgpt-prompt-eng).
 
 ## Getting Started
 
